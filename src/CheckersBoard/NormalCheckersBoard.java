@@ -1,4 +1,4 @@
-package CheckersBoard;
+package checkersboard;
 
 public class NormalCheckersBoard implements CheckersBoard {
     private static final int BOARD_WIDTH = 8;

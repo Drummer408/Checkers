@@ -1,4 +1,4 @@
-package CheckersBoard;
+package checkersboard;
 
 import java.awt.Color;
 

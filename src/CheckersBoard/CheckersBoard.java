@@ -1,4 +1,4 @@
-package CheckersBoard;
+package checkersboard;
 
 public interface CheckersBoard {
     void initializeBoard();
