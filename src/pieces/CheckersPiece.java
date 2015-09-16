@@ -4,7 +4,7 @@ import java.awt.Color;
 
 import javax.swing.ImageIcon;
 
-import CheckersBoard.CheckersBoard;
+import checkersboard.CheckersBoard;
 
 public abstract class CheckersPiece {
     public static final int NORMAL_MOVE_DIAGAONAL_LENGTH = 1;
